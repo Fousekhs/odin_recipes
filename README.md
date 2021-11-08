@@ -1,1 +1,1 @@
-# odin_recipes
+This is a project assignment from The Odin Project. It was fun using what you learnt to make a static web page. 
